@@ -1,0 +1,11 @@
+Enter the number of elements: 5
+Enter 5 elements: 3
+5
+2
+1
+9
+Before sorting: 3 5 2 1 9 
+After sorting: 1 2 3 5 9 
+
+
+=== Code Execution Successful ===
