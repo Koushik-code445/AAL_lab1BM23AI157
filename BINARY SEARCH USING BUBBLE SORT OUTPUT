@@ -1,0 +1,11 @@
+Enter the number of elements (up to 1000): 5
+Array elements before sorting:
+48 9 44 38 6 
+Array elements after sorting:
+6 9 38 44 48 
+Random key to search for: 62
+Element not found
+Time Taken in seconds: 0.000002
+
+
+=== Code Execution Successful ===
