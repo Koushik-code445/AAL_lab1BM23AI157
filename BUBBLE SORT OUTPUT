@@ -1,0 +1,10 @@
+Enter the number of elements in the array: 10
+array before bubble sort:
+73 39 49 86 28 96 56 46 27 53 
+
+array after bubble sort:27 28 39 46 49 53 56 73 86 96 
+Count: 26
+Time taken for bubble sort: 0.000002 seconds
+
+
+=== Code Execution Successful ===
