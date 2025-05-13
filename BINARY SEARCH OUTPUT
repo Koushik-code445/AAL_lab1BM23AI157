@@ -1,0 +1,9 @@
+Enter the number of elements (up to 1000): 10
+Array elements (sorted):
+39 42 44 51 54 71 74 77 79 83 
+Random key to search for: 3
+Element not found
+Time Taken in seconds: 0.000002
+
+
+=== Code Execution Successful ===
