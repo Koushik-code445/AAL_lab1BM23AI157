@@ -1,0 +1,14 @@
+Enter number of vertices: 3
+Enter number of edges: 2
+Enter edge 1 (u v weight): 4
+5
+6
+Enter edge 2 (u v weight): 2
+7
+1
+Edges in MST:
+2 - 7 : 1
+Total cost of MST: 1
+
+
+=== Code Execution Successful ===
